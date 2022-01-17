@@ -1,4 +1,4 @@
-import react, { useState, useEffect, useRef } from "react";
+import react, { useState } from "react";
 import character from './character.json';
 import GameWrapper from "./components/GameWrapper";
 import Navbar from "./components/NavBar";

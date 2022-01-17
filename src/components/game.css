@@ -7,7 +7,7 @@ body{
 }
 
 :root{
-  --headerColor: rgb(121, 11, 11);
+  --headerColor: rgb(3, 39, 73);
   --backgroun: #212534;
 }
 
@@ -19,7 +19,10 @@ body{
     justify-content: space-around;
     align-content: flex-start;
     overflow: auto;  
-    background: white ;
+    /* background: rgb(226, 220, 220); */
+    background-image: linear-gradient(
+    var(--rotate)
+    , #5ddcff, #3c67e3 43%, #4e00c2);
     color:var(--backgroun);
   }
   
@@ -27,7 +30,7 @@ body{
     padding: 10px 0;
     background-color: var(--headerColor);
     margin-bottom: 5px;
-    box-shadow: 0 3px 6px rgb(201, 198, 198), 0 3px 6px rgb(211, 207, 207);
+    box-shadow: 0 3px 6px rgb(131, 164, 214), 0 3px 6px rgb(211, 207, 207);
     color: white;
     width: 100%;
     font-family:'Merriweather Sans';
