@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Angelina Jolie Voight",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/1Anjelina-Jolie.jpg",
+        "occupation": "Actress, Director"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Wills Smith",
+        "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTgwNTA3MzM1ODM4NDEwMDg4/will-smith-attends-varietys-creative-impact-awards-and-10-directors-to-watch-brunch-at-the-parker-palm-springs-on-january-3-2016-in-palm-springs-california-photo-by-jerod-harrisgetty-images.jpg",
+        "occupation": "Actor, Director"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Jessica Alba",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/3Alba.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Dwayne Johnson",
+        "image": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTgwOTI0NDYwNjQ2Mjc4MjMy/gettyimages-1061959920.jpg",
+        "occupation": "Actor, Director"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Keira Knightley",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/6Keira_Knightley.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Nina Dobrev",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/8nina_Dobrev.jpg",
+        "occupation": "Actress"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Maria Bellucci",
+        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/9Monica.jpg",
+        "occupation": "Model, Actress"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": "Justin Bieber",
+        "image": "https://th.bing.com/th/id/OIP.Z6JYNA36giw_xbi9AhotQwHaIv?pid=ImgDet&w=520&h=614&rs=1",
+        "occupation": "Singer"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "Daddy Yankee",
+        "image": "https://media1.fdncms.com/orlando/imager/u/original/2514354/gal_sel_daddy-yankee-2016.jpg",
+        "occupation": "Singer"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Christiano Ronaldo",
+        "image": "https://th.bing.com/th/id/OIP.fOrXesdgrbjzzeZ-fpeFOwHaJW?pid=ImgDet&w=520&h=657&rs=1",
+        "occupation": "FootBaller"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "Deadpool",
+        "image": "https://vignette.wikia.nocookie.net/marvelmovies/images/6/66/Deadpool_promo.png/revision/latest?cb=20150707202600",
+        "occupation": "Hero"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Davido",
+        "image": "https://th.bing.com/th/id/OIP.b6KjKoWaJymRfw_D3t6_4QHaJC?pid=ImgDet&rs=1",
+        "occupation": "Singer"
+      }
+      
+]

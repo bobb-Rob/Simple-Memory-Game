@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=M+PLUS+Rounded+1c:wght@400;500;700;800;900&family=Merriweather+Sans:ital,wght@0,300;0,400;0,800;1,300;1,400&display=swap');
+
+
+body{
+    box-sizing: border-box;
+    margin: 0px;    
+}
+
+:root{
+  --headerColor: rgb(121, 11, 11);
+  --backgroun: #212534;
+}
+
+.wrapper,.images-holder{
+    height: 100%;
+    padding-bottom: 30px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;  
+    background: white ;
+    color:var(--backgroun);
+  }
+  
+  header {
+    padding: 10px 0;
+    background-color: var(--headerColor);
+    margin-bottom: 5px;
+    box-shadow: 0 3px 6px rgb(201, 198, 198), 0 3px 6px rgb(211, 207, 207);
+    color: white;
+    width: 100%;
+    font-family:'Merriweather Sans';
+    text-align: center;    
+  }
+     
+  header p {
+    font-weight: bold;
+    padding: 0 10px;   
+  } 
+
+  .instruction-container{
+    /* border: 2px solid red; */
+    padding:  0px 10px;
+    width: 100%;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+  }
+
+  .instruction-wrapper strong{    
+    color: red ;
+  }
+
+  .instruction-container p{
+    text-align: center;  
+    font-weight: bold;
+    font-size: 1.4rem;
+  }
+
+.images-holder{
+  /* border: 2px solid green; */
+  width: 80%;
+}
+
+  .card{
+    background: #fff;
+    border: 3px solid #fff;
+    border-radius: 2px;
+    margin: 40px 20px;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    transition: box-shadow 0.1s ease-in-out;
+    text-align: left;
+  }
+
+  .card:hover {
+    box-shadow: 0 12px 24px #999, 0 12px 24px #999;
+    height: 200px;
+    width: 200;
+  }
+  .card>.img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  .card>.img-container>img {
+    width: 100%;
+    border-radius: 2px;
+  }
+  
+  .card>.img-content{   
+    font-size: 15px;   
+    margin-top: 20px;
+  }
+
+  .card>.img-content p{
+    margin: 5px;
+    font-family: sans-serif;
+  }
+
+  .animate{
+    animation: shake 0.5s;
+  }
