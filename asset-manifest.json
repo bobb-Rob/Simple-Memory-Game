@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-memory-game/static/css/main.db03fecb.css",
+    "main.js": "/simple-memory-game/static/js/main.32ed6027.js",
+    "index.html": "/simple-memory-game/index.html",
+    "main.db03fecb.css.map": "/simple-memory-game/static/css/main.db03fecb.css.map",
+    "main.32ed6027.js.map": "/simple-memory-game/static/js/main.32ed6027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db03fecb.css",
+    "static/js/main.32ed6027.js"
+  ]
+}
