@@ -3,7 +3,7 @@
         "id": 1,
         "clicked" : false,
         "name": "Angelina Jolie Voight",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/1Anjelina-Jolie.jpg",
+        "image": "https://ilarge.lisimg.com/image/7030687/740full-angelina-jolie.jpg",
         "occupation": "Actress, Director"
       },
       {
@@ -17,7 +17,7 @@
         "id": 3,
         "clicked" : false,
         "name": "Jessica Alba",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/3Alba.jpg",
+        "image": "https://th.bing.com/th/id/R.aa2ab8dbf3332d5b8e4d5d50e2073734?rik=MI8jZ7po3RMoCg&riu=http%3a%2f%2fwww.newdvdreleasedates.com%2fimages%2fprofiles%2fjessica-alba-16.jpg&ehk=AZpyvDKNqsyUtNbR9HQAwzrIv2UHofxMYbnEgJZu%2bfM%3d&risl=&pid=ImgRaw&r=0",
         "occupation": "Model, Actress"
       },
       {
@@ -31,21 +31,21 @@
         "id": 5,
         "clicked" : false,
         "name": "Keira Knightley",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/6Keira_Knightley.jpg",
+        "image": "https://th.bing.com/th/id/R.123fff403269fb32a9b322540d270abe?rik=89lSrX1d2WPW0A&riu=http%3a%2f%2fimages2.fanpop.com%2fimages%2fphotos%2f6800000%2fKeira-keira-knightley-6846603-1668-2560.jpg&ehk=tKF%2b9X6V0th7UZFPj0e3Bfm%2bibHnJ1w2wrfv%2bnKqdbk%3d&risl=&pid=ImgRaw&r=0",
         "occupation": "Actress"
       },
       {
         "id": 6,
         "clicked" : false,
         "name": "Nina Dobrev",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/8nina_Dobrev.jpg",
+        "image": "https://th.bing.com/th/id/R.db7e783b42970497655454cb9a0bf9ae?rik=bLFX4YLyG5ZRGw&pid=ImgRaw&r=0",
         "occupation": "Actress"
       },
       {
         "id": 7,
         "clicked" : false,
         "name": "Maria Bellucci",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/9Monica.jpg",
+        "image": "https://i.pinimg.com/736x/17/53/b9/1753b908c68fe462609f86941eb6c082.jpg",
         "occupation": "Model, Actress"
       },
       {
