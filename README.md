@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Simple Memory Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> I created a simple memory enhancing game where players will exercise their memory as the aim to score higher. I built this with React.js incorporating lessons learned form the basics of React.
 
-## Available Scripts
+## Live Demo
+Below is the link to the demo of this porject.
 
-In the project directory, you can run:
+> [DEMO](http://bobb-Rob.github.io/Simple-Memory-Game)
 
-### `npm start`
+## Built With:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- HTML
+- CSS
+- React.js
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+To get a local copy up and running follow these simple example steps.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Prerequisites
 
-### `npm run build`
+> You will need the following on you machine to reproduce this project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Code editor preferebly Visual Studio Code (VScode).
+- Basic understanding of HTML, CSS Javascript languages
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> To clone this repository, please follow the steps below:
 
-### `npm run eject`
+#### **Clone Git Repository In GitHub**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- In the File menu, click Clone Repository.
+- Click the tab that corresponds to the location of the repository you want to clone. ...
+- Choose the repository you want to clone from the list.
+- Click Choose... and navigate to a local path where you want to clone the repository.
+- Click Clone.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+or
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### **Clone Git Repository In Visual Studio Code**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Open VSCode and select a folder where to download the Git project to (Ctrl + K wait a second Ctrl + O):
 
-## Learn More
+  > Top Menu -> Files -> Open Folder...
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Start the terminal (Ctrl + `):
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  > Top Menu -> View-> Terminal
 
-### Code Splitting
+- Execute the git clone command in the terminal:
+  > PS C:\> git clone https://github.com/path/to/repo.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Install
 
-### Analyzing the Bundle Size
+- install VScode if you do not already have it.
+- Sass Compiler VS Code extension.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Authors
 
-### Making a Progressive Web App
+### Robertson Akpan
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- GitHub: [@bobb-rob](https://github.com/bobb-Rob)
+- Twitter: [@\_\_\_Robertson](https://twitter.com/___Robertson)
+- LinkedIn: https://www.linkedin.com/in/robertson-akpan-6895a0123/
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🤝 Contributing
 
-### Deployment
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Feel free to check the [issues page](../../issues/).
 
-### `npm run build` fails to minify
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Special thanks DigitalOcean React Tutotrial that realy made learning react easy.
+
