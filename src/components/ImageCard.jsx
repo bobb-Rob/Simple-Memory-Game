@@ -4,7 +4,7 @@ const ImageCard = ({id, name, occupation, image, handleClick, StateClickStatus }
    const classN = () => StateClickStatus ? 'animate' : '';
     
     return (
-        <div className={'card ' + classN} onClick={() => handleClick(id,name)} key={id} >
+        <div className={'card ' + classN} onClick={() => handleClick(id.name)} key={id} >
             <div className="img-container" >
                 <img src= {image} alt={name} />
             </div>
